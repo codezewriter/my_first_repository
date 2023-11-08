@@ -14,3 +14,5 @@ Important steps for git workflow:
 
 Hello World, this is what we're all about.
 >>>>>>> updateREADME
+
+THis is a remote commit change.
